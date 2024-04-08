@@ -5,3 +5,5 @@ Trevor
 Juan
 Alice
 Thomas
+Kendell
+Josh
